@@ -1,0 +1,21 @@
+.transactionHistory {
+  background-color: #fff;
+  text-align: center;
+  width: 456px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 32px;
+}
+.tableHead {
+  background-color: aqua;
+  color: #fff;
+}
+
+.tableTd {
+  border: 1px solid #000;
+  height: 32px;
+}
+.tableTh {
+  border: 1px solid #000;
+  height: 32px;
+}
